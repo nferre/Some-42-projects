@@ -1,4 +1,4 @@
-# Some-42-projects (in C)
+# 📜 Some-42-projects (in C)
 
 📙**Libft** : Implementation of some basic C functions.  
   
